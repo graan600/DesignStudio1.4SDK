@@ -1,0 +1,3 @@
+class com.sap.sample.constantdatasource.ConstantDataSource extends SdkDataSource {
+	// needed to inherit parent class methods	
+}

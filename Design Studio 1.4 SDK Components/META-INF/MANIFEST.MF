@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Design Studio 1.4 Utilities
+Bundle-SymbolicName: com.sample.utilities14;singleton:=true
+Bundle-Version: 1.4
+Require-Bundle: com.sap.ip.bi.zen.rt.components.sdk.eclipse
+Bundle-Vendor: Mike Howles
